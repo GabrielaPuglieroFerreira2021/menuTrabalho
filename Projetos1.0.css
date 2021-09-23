@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?família=Urbanista:wght@600&display=swap');
+*{
+    font-family:'Urbanista', sans-serif;
+    margin:10px;
+    padding:0;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: #B1ED71;
+    text-align: center;
+}
+.img1{
+  height:400px; 
+  width: 490px;
+  margin: 20px;
+ /* display: block;
+  margin-left: auto;
+  margin-right: auto*/
+}
+.img2{
+    margin: 20px;
+   /* display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+h2{
+    color:#B1ED71;
+}
+p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;  
+}
+.div{
+ border-style:solid ;
+ border-color: #a8e468;
+ padding:15px ;
+ margin: 15px;
+}  
+.ol{
+    border-style:solid ;
+    border-color: #a8e468; 
+    padding: 23px;
+    color:rgb(255, 255, 255);
+    font-size: 20px; 
+    margin: 15px;
+}
